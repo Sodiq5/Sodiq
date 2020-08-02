@@ -1,0 +1,2 @@
+# Sodiq
+KARIMJONOV sodiqĺ
