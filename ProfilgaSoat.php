@@ -1,3 +1,4 @@
+//mualliflik huquqi @Sodiqjon_Karimjonovga tegishli
 <?php
 
 if (!file_exists('madeline.php')) {
